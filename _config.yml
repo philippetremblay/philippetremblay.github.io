@@ -80,7 +80,7 @@ prose:
   #media: 'http://127.0.0.1:4000/images/'
   rooturl: '_posts'
   siteurl: 'http://philippetremblay.github.io/'
-  relativeLinks: 'http://philippetremblay.github.io/Notepad/links.jsonp'
+  relativeLinks: 'http://philippetremblay.github.io/links.jsonp'
   media: 'http://philippetremblay.github.io/images'
   metadata:
     _posts:
