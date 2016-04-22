@@ -31,10 +31,12 @@ chart: true
 This is the personal blog of **Philippe Tremblay**: Husband, Father, Teammate. IT generalist with a passion from the bits to the cloud and the culture which unlocks their potential.
 
 Why *"Sum of Perspectives"*?
-If there is one thing above all that I've learned over the years, it is the value of having an open mind; The skill of seeking to view things from as many perspectives as possible and then to artfully "Sum" these to produce the most realistic representation of reality. 
+If there is one thing above all that I've learned over the years, it is the value of having an open mind; The skill of seeking to view things from as many perspectives as possible and then to artfully "Sum" these to produce the most realistic representation of reality.
+ 
 * This is a skill which can be applied to anything: politics, troubleshooting, analysing a business opportunity, parenting, etc
 * It drive you communicate with others and build trust
 * It's a flywheel which makes learning fun and which expands your horizons beyond your zone of comfort.
+
 In the end, it let's deliver better outcomes.  
 
 ##Stats
