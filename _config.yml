@@ -79,7 +79,7 @@ prose:
   #relativeLinks: 'http://127.0.0.1/Notepad/links.jsonp'
   #media: 'http://127.0.0.1:4000/images/'
   rooturl: '_posts'
-  siteurl: 'http://philippetremblay.github.io/Notepad/'
+  siteurl: 'http://philippetremblay.github.io/'
   relativeLinks: 'http://philippetremblay.github.io/Notepad/links.jsonp'
   media: 'http://philippetremblay.github.io/images'
   metadata:
