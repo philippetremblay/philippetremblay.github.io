@@ -2,13 +2,13 @@
 layout: page
 permalink: /about/index.html
 title: Philippe Tremblay
-tags: [Philippe, Tremblay]
+tags: [Philippe, Tremblay, Perspectives,]
 imagefeature: 
 chart: true
 ---
 <!--- <figure>
   <img src="{{ site.url }}/images/hossain-faysal.jpg" alt="Hossain Mohammad Faysal">
-  <figcaption>Hossain Mohammad Faysal</figcaption>
+  <figcaption>Hl</figcaption>
 </figure>
 --->
 
@@ -28,9 +28,14 @@ chart: true
 {% endfor %}
 
 
-My name is **Philippe Tremblay**, and this is my personal blog. 
+This is the personal blog of **Philippe Tremblay**: Husband, Father, Teammate. IT generalist with a passion from the bits to the cloud and the culture which unlocks their potential.
 
-Husband, Father, and IT generalist passionate from the circuits to the cloud and the culture.
+Why *"Sum of Perspectives"*?
+If there is one thing above all that I've learned over the years, it is the value of having an open mind; The skill of seeking to view things from as many perspectives as possible and then to artfully "Sum" these to produce the most realistic representation of reality. 
+- This is a skill which can be applied to anything: politics, troubleshooting, analysing a business opportunity, parenting, etc
+- It drive you communicate with others and build trust
+- It's a flywheel makes learning fun and which expands your horizons beyond your zone of comfort.
+In the end, it let's deliver better outcomes.  
 
 ##Stats
 It currently has {{ site.posts | size }} posts in {{ site.categories | size }} categories which combinedly have {{ total_words }} words, which will take an average reader ({{ site.wpm }} WPM) approximately <span class="time">{{ total_readtime }}</span> minutes to read. {% if featuredcount != 0 %}There are <a href="{{ site.url }}/featured">{{ featuredcount }} featured posts</a>, you should definitely check those out.{% endif %} The most recent post is {% for post in site.posts limit:1 %}{% if post.description %}<a href="{{ site.url }}{{ post.url }}" title="{{ post.description }}">"{{ post.title }}"</a>{% else %}<a href="{{ site.url }}{{ post.url }}" title="{{ post.description }}" title="Read more about {{ post.title }}">"{{ post.title }}"</a>{% endif %}{% endfor %} which was published on {% for post in site.posts limit:1 %}{% assign modifiedtime = post.modified | date: "%Y%m%d" %}{% assign posttime = post.date | date: "%Y%m%d" %}<time datetime="{{ post.date | date_to_xmlschema }}" class="post-time">{{ post.date | date: "%d %b %Y" }}</time>{% if post.modified %}{% if modifiedtime != posttime %} and last modified on <time datetime="{{ post.modified | date: "%Y-%m-%d" }}" itemprop="dateModified">{{ post.modified | date: "%d %b %Y" }}</time>{% endif %}{% endif %}{% endfor %}. The last commit was on {{ site.time | date: "%A, %d %b %Y" }} at {{ site.time | date: "%I:%M %p" }} [UTC](http://en.wikipedia.org/wiki/Coordinated_Universal_Time "Temps Universel Coordonné").
