@@ -1,70 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>http://philippetremblay.github.io/</loc>
+        <loc>http://127.0.0.1:4000/</loc>
     </url>
     
     
     <url>
-        <loc>http://philippetremblay.github.io//404</loc>
+        <loc>http://127.0.0.1:4000//404</loc>
     </url>
     
     <url>
-        <loc>http://philippetremblay.github.io//about/index.html</loc>
+        <loc>http://127.0.0.1:4000//about/index.html</loc>
     </url>
     
     <url>
-        <loc>http://philippetremblay.github.io//categories/index.html</loc>
+        <loc>http://127.0.0.1:4000//categories/index.html</loc>
     </url>
     
     <url>
-        <loc>http://philippetremblay.github.io//featured/</loc>
+        <loc>http://127.0.0.1:4000//featured/</loc>
     </url>
     
     <url>
-        <loc>http://philippetremblay.github.io//feed.xml</loc>
+        <loc>http://127.0.0.1:4000//feed.xml</loc>
     </url>
     
     <url>
-        <loc>http://philippetremblay.github.io//</loc>
+        <loc>http://127.0.0.1:4000//</loc>
     </url>
     
     <url>
-        <loc>http://philippetremblay.github.io//links.jsonp</loc>
+        <loc>http://127.0.0.1:4000//links.jsonp</loc>
     </url>
     
     <url>
-        <loc>http://philippetremblay.github.io//search.json</loc>
+        <loc>http://127.0.0.1:4000//search.json</loc>
     </url>
     
     <url>
-        <loc>http://philippetremblay.github.io//sitemap.xml</loc>
+        <loc>http://127.0.0.1:4000//sitemap.xml</loc>
     </url>
     
     <url>
-        <loc>http://philippetremblay.github.io//tags/index.html</loc>
+        <loc>http://127.0.0.1:4000//tags/index.html</loc>
     </url>
     
 
     
     <url>
-        <loc>http://philippetremblay.github.io//personal/continuous-architecture</loc>
+        <loc>http://127.0.0.1:4000//personal/continuous-architecture</loc>
     </url>
     
     <url>
-        <loc>http://philippetremblay.github.io//webdevelopment/why-jekyll</loc>
+        <loc>http://127.0.0.1:4000//webdevelopment/why-jekyll</loc>
     </url>
     
     <url>
-        <loc>http://philippetremblay.github.io//personal/introducing-notepad</loc>
+        <loc>http://127.0.0.1:4000//personal/introducing-notepad</loc>
     </url>
     
     <url>
-        <loc>http://philippetremblay.github.io//theme/documentation.md.examble</loc>
+        <loc>http://127.0.0.1:4000//theme/documentation.md.examble</loc>
     </url>
     
     <url>
-        <loc>http://philippetremblay.github.io//theme/readability-feature-post.md.example</loc>
+        <loc>http://127.0.0.1:4000//theme/readability-feature-post.md.example</loc>
     </url>
     
 </urlset>

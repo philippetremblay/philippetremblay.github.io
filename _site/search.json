@@ -3,7 +3,7 @@
 		{
 		  "title"      : "Continuous Architecture",
 		  "category"   : "personal",
-		  "url"        : "http://philippetremblay.github.io//personal/continuous-architecture",
+		  "url"        : "http://127.0.0.1:4000//personal/continuous-architecture",
 		  "date"       : "2016-03-31 00:00:00 -0400",
 		  "shortdate"  : "March 31, 2016"
 		} ,
@@ -11,7 +11,7 @@
 		{
 		  "title"      : "Why Jekyll?",
 		  "category"   : "webdevelopment",
-		  "url"        : "http://philippetremblay.github.io//webdevelopment/why-jekyll",
+		  "url"        : "http://127.0.0.1:4000//webdevelopment/why-jekyll",
 		  "date"       : "2014-07-23 00:00:00 -0400",
 		  "shortdate"  : "July 23, 2014"
 		} ,
@@ -19,7 +19,7 @@
 		{
 		  "title"      : "Continuous Architecture",
 		  "category"   : "personal",
-		  "url"        : "http://philippetremblay.github.io//personal/introducing-notepad",
+		  "url"        : "http://127.0.0.1:4000//personal/introducing-notepad",
 		  "date"       : "2014-07-19 00:00:00 -0400",
 		  "shortdate"  : "July 19, 2014"
 		} ,
@@ -27,7 +27,7 @@
 		{
 		  "title"      : "Documentation",
 		  "category"   : "theme",
-		  "url"        : "http://philippetremblay.github.io//theme/documentation.md.examble",
+		  "url"        : "http://127.0.0.1:4000//theme/documentation.md.examble",
 		  "date"       : "2014-06-19 00:00:00 -0400",
 		  "shortdate"  : "June 19, 2014"
 		} ,
@@ -35,7 +35,7 @@
 		{
 		  "title"      : "Post with Cover Image and Text",
 		  "category"   : "theme",
-		  "url"        : "http://philippetremblay.github.io//theme/readability-feature-post.md.example",
+		  "url"        : "http://127.0.0.1:4000//theme/readability-feature-post.md.example",
 		  "date"       : "2013-05-23 00:00:00 -0400",
 		  "shortdate"  : "May 23, 2013"
 		} 

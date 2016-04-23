@@ -2,27 +2,27 @@ callback([
 
   {
     "text": "Post with Cover Image and Text",
-    "href": "http://philippetremblay.github.io//theme/readability-feature-post.md.example"
+    "href": "http://127.0.0.1:4000//theme/readability-feature-post.md.example"
   } ,
 
   {
     "text": "Documentation",
-    "href": "http://philippetremblay.github.io//theme/documentation.md.examble"
+    "href": "http://127.0.0.1:4000//theme/documentation.md.examble"
   } ,
 
   {
     "text": "Continuous Architecture",
-    "href": "http://philippetremblay.github.io//personal/introducing-notepad"
+    "href": "http://127.0.0.1:4000//personal/introducing-notepad"
   } ,
 
   {
     "text": "Why Jekyll?",
-    "href": "http://philippetremblay.github.io//webdevelopment/why-jekyll"
+    "href": "http://127.0.0.1:4000//webdevelopment/why-jekyll"
   } ,
 
   {
     "text": "Continuous Architecture",
-    "href": "http://philippetremblay.github.io//personal/continuous-architecture"
+    "href": "http://127.0.0.1:4000//personal/continuous-architecture"
   } 
 
 ])

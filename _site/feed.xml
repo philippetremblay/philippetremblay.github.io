@@ -5,27 +5,27 @@
 
 <title type="text">Philippe's Blog</title>
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http://philippetremblay.github.io//feed.xml" />
-<link rel="alternate" type="text/html" href="http://philippetremblay.github.io//" />
-<updated>2016-04-23T04:02:54-04:00</updated>
-<id>http://philippetremblay.github.io//</id>
+<link rel="self" type="application/atom+xml" href="http://127.0.0.1:4000//feed.xml" />
+<link rel="alternate" type="text/html" href="http://127.0.0.1:4000//" />
+<updated>2016-04-23T05:27:29-04:00</updated>
+<id>http://127.0.0.1:4000//</id>
 <author>
   <name>Philippe Tremblay</name>
-  <uri>http://philippetremblay.github.io//</uri>
+  <uri>http://127.0.0.1:4000//</uri>
   <email>philtrem2000@gmail.com</email>
 </author>
 
 
 <entry>
   <title type="html"><![CDATA[Continuous Architecture]]></title>
-  <link rel="alternate" type="text/html" href="http://philippetremblay.github.io//personal/continuous-architecture"/>
-  <id>http://philippetremblay.github.io//personal/continuous-architecture</id>
+  <link rel="alternate" type="text/html" href="http://127.0.0.1:4000//personal/continuous-architecture"/>
+  <id>http://127.0.0.1:4000//personal/continuous-architecture</id>
   <published>2016-03-31T00:00:00-04:00</published>
   <updated>2016-03-31T00:00:00-00:00</updated>
   
   <author>
     <name>Philippe Tremblay</name>
-    <uri>http://philippetremblay.github.io/</uri>
+    <uri>http://127.0.0.1:4000/</uri>
     <email>philtrem2000@gmail.com</email>
   </author>
   
@@ -47,7 +47,7 @@ You can set post image covers by using only Ghost narkdown editor just place som
 
 &lt;p&gt;You can also place other images witch will be put in text.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://philippetremblay.github.io//images/cover3.jpg&quot; alt=&quot;Laptop&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://127.0.0.1:4000//images/cover3.jpg&quot; alt=&quot;Laptop&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;You can use Foundation Grid, but you need to write html in Ghost markdown editor (this isn’t hard):&lt;/p&gt;
 
@@ -65,23 +65,23 @@ You can set post image covers by using only Ghost narkdown editor just place som
 &lt;p&gt;&lt;a href=&quot;http://foundation.zurb.com/docs/&quot;&gt;More info about Foundation framework&lt;/a&gt;&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://philippetremblay.github.io//personal/continuous-architecture&quot;&gt;Continuous Architecture&lt;/a&gt; was originally published by Philippe Tremblay at &lt;a href=&quot;http://philippetremblay.github.io/&quot;&gt;Philippe's Blog&lt;/a&gt; on March 31, 2016.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://127.0.0.1:4000//personal/continuous-architecture&quot;&gt;Continuous Architecture&lt;/a&gt; was originally published by Philippe Tremblay at &lt;a href=&quot;http://127.0.0.1:4000/&quot;&gt;Philippe's Blog&lt;/a&gt; on March 31, 2016.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Why Jekyll?]]></title>
-  <link rel="alternate" type="text/html" href="http://philippetremblay.github.io//webdevelopment/why-jekyll"/>
-  <id>http://philippetremblay.github.io//webdevelopment/why-jekyll</id>
+  <link rel="alternate" type="text/html" href="http://127.0.0.1:4000//webdevelopment/why-jekyll"/>
+  <id>http://127.0.0.1:4000//webdevelopment/why-jekyll</id>
   <published>2014-07-23T00:00:00-04:00</published>
   <updated>2014-07-23T00:00:00-00:00</updated>
   
   <author>
     <name>Philippe Tremblay</name>
-    <uri>http://philippetremblay.github.io/</uri>
+    <uri>http://127.0.0.1:4000/</uri>
     <email>philtrem2000@gmail.com</email>
   </author>
-  <category scheme="http://philippetremblay.github.io//tags/#jekyll" term="jekyll" />
+  <category scheme="http://127.0.0.1:4000//tags/#jekyll" term="jekyll" />
   <content type="html">
   
     &lt;p&gt;Well, I guess it’s quite obvious that I really enjoy working with Jekyll — with good reasons — so let me just briefly suggest some of the benefits of using a static site generator in favor of a heavy dynamic, database driven content management system.&lt;/p&gt;
@@ -108,20 +108,20 @@ You can set post image covers by using only Ghost narkdown editor just place som
 &lt;p&gt;Enjoy!&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://philippetremblay.github.io//webdevelopment/why-jekyll&quot;&gt;Why Jekyll?&lt;/a&gt; was originally published by Philippe Tremblay at &lt;a href=&quot;http://philippetremblay.github.io/&quot;&gt;Philippe's Blog&lt;/a&gt; on July 23, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://127.0.0.1:4000//webdevelopment/why-jekyll&quot;&gt;Why Jekyll?&lt;/a&gt; was originally published by Philippe Tremblay at &lt;a href=&quot;http://127.0.0.1:4000/&quot;&gt;Philippe's Blog&lt;/a&gt; on July 23, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Continuous Architecture]]></title>
-  <link rel="alternate" type="text/html" href="http://philippetremblay.github.io//personal/introducing-notepad"/>
-  <id>http://philippetremblay.github.io//personal/introducing-notepad</id>
+  <link rel="alternate" type="text/html" href="http://127.0.0.1:4000//personal/introducing-notepad"/>
+  <id>http://127.0.0.1:4000//personal/introducing-notepad</id>
   <published>2014-07-19T00:00:00-04:00</published>
   <updated>2014-07-19T00:00:00-00:00</updated>
   
   <author>
     <name>Philippe Tremblay</name>
-    <uri>http://philippetremblay.github.io/</uri>
+    <uri>http://127.0.0.1:4000/</uri>
     <email>philtrem2000@gmail.com</email>
   </author>
   
@@ -143,7 +143,7 @@ You can set post image covers by using only Ghost narkdown editor just place som
 
 &lt;p&gt;You can also place other images witch will be put in text.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://philippetremblay.github.io//images/cover3.jpg&quot; alt=&quot;Laptop&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://127.0.0.1:4000//images/cover3.jpg&quot; alt=&quot;Laptop&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;You can use Foundation Grid, but you need to write html in Ghost markdown editor (this isn’t hard):&lt;/p&gt;
 
@@ -161,22 +161,22 @@ You can set post image covers by using only Ghost narkdown editor just place som
 &lt;p&gt;&lt;a href=&quot;http://foundation.zurb.com/docs/&quot;&gt;More info about Foundation framework&lt;/a&gt;&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://philippetremblay.github.io//personal/introducing-notepad&quot;&gt;Continuous Architecture&lt;/a&gt; was originally published by Philippe Tremblay at &lt;a href=&quot;http://philippetremblay.github.io/&quot;&gt;Philippe's Blog&lt;/a&gt; on July 19, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://127.0.0.1:4000//personal/introducing-notepad&quot;&gt;Continuous Architecture&lt;/a&gt; was originally published by Philippe Tremblay at &lt;a href=&quot;http://127.0.0.1:4000/&quot;&gt;Philippe's Blog&lt;/a&gt; on July 19, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Documentation]]></title>
-  <link rel="alternate" type="text/html" href="http://philippetremblay.github.io//theme/documentation.md.examble"/>
-  <id>http://philippetremblay.github.io//theme/documentation.md.examble</id>
+  <link rel="alternate" type="text/html" href="http://127.0.0.1:4000//theme/documentation.md.examble"/>
+  <id>http://127.0.0.1:4000//theme/documentation.md.examble</id>
   <published>2014-06-19T00:00:00-04:00</published>
   <updated>2014-06-19T00:00:00-04:00</updated>
   <author>
     <name>Philippe Tremblay</name>
-    <uri>http://philippetremblay.github.io/</uri>
+    <uri>http://127.0.0.1:4000/</uri>
     <email>philtrem2000@gmail.com</email>
   </author>
-  <category scheme="http://philippetremblay.github.io//tags/#how-to" term="how-to" />
+  <category scheme="http://127.0.0.1:4000//tags/#how-to" term="how-to" />
   <content type="html">
   
     &lt;p&gt;General notes and suggestions for customizing &lt;strong&gt;HMFAYSAL Notepad Theme&lt;/strong&gt;.&lt;/p&gt;
@@ -223,7 +223,7 @@ You can set post image covers by using only Ghost narkdown editor just place som
 &lt;h2 id=&quot;basic-setup-for-a-new-jekyll-site&quot;&gt;Basic Setup for a new Jekyll site&lt;/h2&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;&lt;a href=&quot;http://jekyllrb.com&quot;&gt;Install Jekyll&lt;/a&gt; and read through &lt;a href=&quot;http://philippetremblay.github.io//theme-setup/installing-jekyll-on-windows/&quot;&gt;this installation instructions&lt;/a&gt; if you haven’t already.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://jekyllrb.com&quot;&gt;Install Jekyll&lt;/a&gt; and read through &lt;a href=&quot;http://127.0.0.1:4000//theme-setup/installing-jekyll-on-windows/&quot;&gt;this installation instructions&lt;/a&gt; if you haven’t already.&lt;/li&gt;
   &lt;li&gt;Fork the &lt;a href=&quot;https://github.com/hmfaysal/hmfaysal-omega-theme/fork&quot;&gt;HMFAYSAL Notepad Theme repo&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Clone the repo you just forked.&lt;/li&gt;
   &lt;li&gt;Edit &lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; to personalize your site.&lt;/li&gt;
@@ -476,7 +476,7 @@ You can set post image covers by using only Ghost narkdown editor just place som
 
 &lt;p&gt;Here’s an example of what a tweet to your site could look like if you activate Twitter Cards and include all the metas in your post’s YAML.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://philippetremblay.github.io//images/twitter-card-summary-large-image.jpg&quot; alt=&quot;search screenshot&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://127.0.0.1:4000//images/twitter-card-summary-large-image.jpg&quot; alt=&quot;search screenshot&quot; /&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;social-share-links&quot;&gt;Social Share Links&lt;/h4&gt;
 
@@ -510,7 +510,7 @@ You can set post image covers by using only Ghost narkdown editor just place som
 
 &lt;h2 id=&quot;license&quot;&gt;License&lt;/h2&gt;
 
-&lt;p&gt;This theme is free and open source software, distributed under the &lt;a href=&quot;http://philippetremblay.github.io//license/&quot;&gt;The MIT License&lt;/a&gt;. So feel free to use this Jekyll theme on your site without linking back to me or using a disclaimer.&lt;/p&gt;
+&lt;p&gt;This theme is free and open source software, distributed under the &lt;a href=&quot;http://127.0.0.1:4000//license/&quot;&gt;The MIT License&lt;/a&gt;. So feel free to use this Jekyll theme on your site without linking back to me or using a disclaimer.&lt;/p&gt;
 
 &lt;p&gt;If you’d like to give me credit somewhere on your blog or tweet a shout out to &lt;a href=&quot;https://twitter.com/hmfaysal&quot;&gt;@hmfaysal&lt;/a&gt;, that would be pretty sweet.&lt;/p&gt;
 
@@ -523,22 +523,22 @@ You can set post image covers by using only Ghost narkdown editor just place som
 &lt;/div&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://philippetremblay.github.io//theme/documentation.md.examble&quot;&gt;Documentation&lt;/a&gt; was originally published by Philippe Tremblay at &lt;a href=&quot;http://philippetremblay.github.io/&quot;&gt;Philippe's Blog&lt;/a&gt; on June 19, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://127.0.0.1:4000//theme/documentation.md.examble&quot;&gt;Documentation&lt;/a&gt; was originally published by Philippe Tremblay at &lt;a href=&quot;http://127.0.0.1:4000/&quot;&gt;Philippe's Blog&lt;/a&gt; on June 19, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Post with Cover Image and Text]]></title>
-  <link rel="alternate" type="text/html" href="http://philippetremblay.github.io//theme/readability-feature-post.md.example"/>
-  <id>http://philippetremblay.github.io//theme/readability-feature-post.md.example</id>
+  <link rel="alternate" type="text/html" href="http://127.0.0.1:4000//theme/readability-feature-post.md.example"/>
+  <id>http://127.0.0.1:4000//theme/readability-feature-post.md.example</id>
   <published>2013-05-23T00:00:00-04:00</published>
   <updated>2013-05-23T00:00:00-04:00</updated>
   <author>
     <name>Philippe Tremblay</name>
-    <uri>http://philippetremblay.github.io/</uri>
+    <uri>http://127.0.0.1:4000/</uri>
     <email>philtrem2000@gmail.com</email>
   </author>
-  <category scheme="http://philippetremblay.github.io//tags/#sample%20post" term="sample post" /><category scheme="http://philippetremblay.github.io//tags/#readability" term="readability" />
+  <category scheme="http://127.0.0.1:4000//tags/#sample%20post" term="sample post" /><category scheme="http://127.0.0.1:4000//tags/#readability" term="readability" />
   <content type="html">
   
     &lt;p&gt;This is a sample post with a large feature image up top and tons of text. You can set post image covers by using only Kramdown narkdown, just place something like this: &lt;code class=&quot;highlighter-rouge&quot;&gt;![cover-image](http://path-to-your-image.jpg)&lt;/code&gt;&lt;/p&gt;
@@ -585,7 +585,7 @@ You can set post image covers by using only Ghost narkdown editor just place som
 &lt;p&gt;Aliquip enim artisan dolor post-ironic. Pug tote bag Marfa, deserunt pour-over Portland wolf eu odio intelligentsia american apparel ugh ea. Sunt viral et, 3 wolf moon gastropub pug id. Id fashion axe est typewriter, mlkshk Portland art party aute brunch. Sint pork belly Cosby sweater, deep v mumblecore kitsch american apparel. Try-hard direct trade tumblr sint skateboard. Adipisicing bitters excepteur biodiesel, pickled gastropub aute veniam.&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://philippetremblay.github.io//theme/readability-feature-post.md.example&quot;&gt;Post with Cover Image and Text&lt;/a&gt; was originally published by Philippe Tremblay at &lt;a href=&quot;http://philippetremblay.github.io/&quot;&gt;Philippe's Blog&lt;/a&gt; on May 23, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://127.0.0.1:4000//theme/readability-feature-post.md.example&quot;&gt;Post with Cover Image and Text&lt;/a&gt; was originally published by Philippe Tremblay at &lt;a href=&quot;http://127.0.0.1:4000/&quot;&gt;Philippe's Blog&lt;/a&gt; on May 23, 2013.&lt;/p&gt;</content>
 </entry>
 
 </feed>
