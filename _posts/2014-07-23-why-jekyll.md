@@ -11,13 +11,14 @@ mathjax:
 chart: 
 comments: true
 featured: false
+published: false
 ---
 
 Well, I guess it's quite obvious that I really enjoy working with Jekyll — with good reasons — so let me just briefly suggest some of the benefits of using a static site generator in favor of a heavy dynamic, database driven content management system.
 
-- **Speed**: Static HTML pages are small, lightweight and perform blazingly fast. You’ll notice the difference.
+- **Speed**:  Static HTML pages are small, lightweight and perform blazingly fast. You’ll notice the difference.
 
-- **Version Control**: Contents and files remain on your computer. Perform backups or keep track of changes via GIT or SVN — *it’s quite easy without a database.*
+- **Version C ontrol**: Contents and files remain on your computer. Perform backups or keep track of changes via GIT or SVN — *it’s quite easy without a database.*
 
 - **Flexibility**: Ruby and Liquid — *Jekyll’s foundation* — empower you to easily extend its functionality. Or just use one of [many plugins](http://jekyllrb.com/docs/plugins/) created by a striving community.
 

@@ -8,13 +8,14 @@ category: personal
 tags: []
 imagefeature:
 comments: true
-mathjax: 
+mathjax:
+published: false
 ---
 
 Notepad is a Jekyll theme which is very simple, clean and beautiful. This theme is good for any blog.
 
 Main Features:
-Zurb Foundation 5 - css framework
+Zurb Foundation 5 -  css framework
 Fullscreen post covers with header wich will be bright or dark according to background image
 Fast and light
 Font Awesome
