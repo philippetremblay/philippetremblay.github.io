@@ -20,7 +20,7 @@ Fullscreen post covers with header wich will be bright or dark according to back
 Fast and light
 Font Awesome
 Disqus comments integration
-You can set post image covers by using only Ghost narkdown editor just place something like this:
+You can set  post image covers by using only Ghost narkdown editor just place something like this:
 
     ![cover-image](http://path-to-your-image.jpg)
 
