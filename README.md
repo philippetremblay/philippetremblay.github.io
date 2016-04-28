@@ -23,5 +23,3 @@ Credits:
 If you'd like to give me credit somewhere on your blog or tweet a shout out to [@hmfaysal](https://twitter.com/hmfaysal), that would be pretty sweet.
 
 
-Warm Regards and Stay Creative,  
-Hossain Mohd. Faysal
